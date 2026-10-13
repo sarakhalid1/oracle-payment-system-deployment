@@ -74,9 +74,3 @@ oracle-payment-system-deployment/
 **Sara Khalid**
 - GitHub: [@sarakhalid1](https://github.com/sarakhalid1)
 - Location: Khartoum, Sudan
-
-
-
-
-
-لو حصلت كلة 1: GitHub طلب منك تسوي
